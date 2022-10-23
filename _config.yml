@@ -1,20 +1,20 @@
 # --- General options --- #
 
 # Name of website
-title: Anudit Verma
+title: Bilwasiva Basu Mallick 
 
 # Short description of your site
 description: Let me introduce you to my geek side!
 
 # Your name to show in the footer
-author: Anudit Verma
+author: Bilwasiva Basu Mallick 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.anudit.in/"
+url: "https://www.bilwa.in/"
 
 # baseurl should be an empty string
 baseurl: ""
